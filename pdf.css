@@ -1,0 +1,50 @@
+body {
+  font-family: "Noto Sans";
+  font-size: 1.2rem;
+}
+img {
+  max-width:90%;
+  margin-left:40px;
+  margin-top: 15px;
+  border: 2px solid black;
+}
+code {
+  font-family: "Hack";
+  vertical-align: baseline;
+  background-color: #ffdadd;
+  color: #dc4753;
+  font-weight: normal;
+  padding: .25em .5em .25em;
+}
+li {
+  padding: 10px;
+}
+.site-title {
+  margin-left: 0;
+  color: #50596c;
+}
+.navbar-section	 img {
+  margin-left: 0;
+  border: none;
+  max-width: 100%;
+  margin-top: 0;
+  vertical-align: middle;
+}
+.navbar a {
+  display: block;
+}
+.navbar {
+  margin-bottom: 15px;
+}
+.page-title {
+  margin-top: 50%;
+  margin-bottom: auto;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 3rem;
+  page-break-after: always;
+}
+h2,h3,h4 {
+  font-weight: bold;
+  page-break-before: always;
+}
