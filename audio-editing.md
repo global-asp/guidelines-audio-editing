@@ -8,6 +8,7 @@
 * [Editing](#editing)
 * [Exporting](#exporting)
 * [Special issues](#special-issues)
+* [Other guidelines](#other-guidelines)
 
 ## Preparation
 
